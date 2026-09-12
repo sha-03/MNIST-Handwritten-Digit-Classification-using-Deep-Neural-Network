@@ -4,7 +4,7 @@ A Deep Learning project that uses a Deep Neural Network (DNN) to classify handwr
 
 This project demonstrates **Multiclass Classification using a Deep Neural Network (DNN)** to recognize handwritten digits from the **MNIST dataset**.
 
-The MNIST dataset contains handwritten digit images from **0 to 9**. The images are preprocessed and provided to a neural network for classification.
+The MNIST dataset contains handwritten digit images from **0 to 9**. he images are preprocessed and provided to a neural network for classification.
 
 ## 🎯 Objective
 
